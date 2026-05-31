@@ -2,7 +2,7 @@ name: Update IPDeny Zones
 
 on:
   schedule:
-    - cron: '27 22 * * *'
+    - cron: '11 11 * * *'
   workflow_dispatch:
 
 jobs:
